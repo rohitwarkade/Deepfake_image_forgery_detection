@@ -1,4 +1,4 @@
-# Image Forgery Detection Streamlit App
+# Deepfake_image_forgery_detection
 
 This is a Streamlit-based Python application for detecting image forgery, deployed using Microsoft Azure and Docker.
 
